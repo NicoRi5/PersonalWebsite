@@ -1,0 +1,36 @@
+nav {
+  background-color: darkgray;
+  color: white;
+  padding: 5px;
+  box-shadow: 0 0 12px -2px darkgray;
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 80px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body {
+  background-color: cadetblue;
+  box-shadow: 0 0 12px -2px darkgray;
+  padding: 0;
+  max-width: 960px;
+}
+
+main {
+  min-height: 100vh;
+  box-shadow: 0 0 12px -2px darkgray;
+  padding: 85px 24px 96px;
+  font-size: 20px;
+}
+
+main > img {
+  width: 300px;
+  float: right;
+  margin: 10px 0px 10px 10px;
+}
+main {
+  color: white;
+}
