@@ -34,3 +34,7 @@ main > img {
 main {
   color: white;
 }
+
+.about-img {
+    height: 130px;
+}
